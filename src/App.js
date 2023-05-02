@@ -1,3 +1,5 @@
+// @flow
+
 import { ThemeProvider, createTheme, CssBaseline, Stack } from "@mui/material";
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
