@@ -1,3 +1,13 @@
-let arr = [1, 2, 7, 3, 5, 5, 8];
+export const data = ["apple", "banana", "orange", "kiwi", "mango"];
 
-export default arr;
+export const person = {
+  firstName: "John",
+  lastName: "Doe",
+  age: 30,
+  address: {
+    street: "123 Main St",
+    city: "Anytown",
+    state: "CA",
+    zip: "12345",
+  },
+};
